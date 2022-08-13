@@ -1,0 +1,2 @@
+# my_readline
+If you already played with another higher-level programming language, you know how easy it is to read a line from a file. For example in Python, you can even iterate through the file like for line in file:.  Unfortunately for you, this project will bring you back in the 1970s (again) when no such super power was available.  Fortunately for you, you will discover the concept of global variables and gain a deeper understanding of how the heap and the stack interact with each other.
